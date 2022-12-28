@@ -8,7 +8,7 @@
 
 ## 저장소 사용자 
 
--  이정민(jefflee@ocube.co.kr)
+-  이정민 (jefflee@ocube.co.kr, 010-2732-3289)
 
 ## 기타 정보 
 github 에 연동되어 동시에 업데이트 됩니다.
