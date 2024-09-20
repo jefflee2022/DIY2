@@ -1,0 +1,5 @@
+c3cff77bab642ce7f9b1c3a99ed5fa2b  ocpp-cpt
+
+24_09_20
+v1.2.3 과 다른점 
+mod : 시작시에 /data/cmd/* 지우고, 기존 port 관련된 파일만 임시 백업후 복원
